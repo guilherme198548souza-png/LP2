@@ -1,0 +1,11 @@
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.csproj.AssemblyReference.cache
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.Form1.resources
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.Properties.Resources.resources
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.csproj.GenerateResource.cache
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.csproj.CoreCompileInputs.cache
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\bin\Debug\PVendas01.exe.config
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\bin\Debug\PVendas01.exe
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\bin\Debug\PVendas01.pdb
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.exe
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.pdb
+C:\Users\0030482513048\Downloads\PVendas01\PVendas01\obj\Debug\PVendas01.exe.config
